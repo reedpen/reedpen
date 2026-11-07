@@ -1,6 +1,6 @@
 # reed pennock
 
-I contribute to open source projects across developer tools, scientific software, and music apps.
+I build and contribute to open source projects across developer tools, scientific software, and more :) .
 
 ## Open source contributions
 
